@@ -10,7 +10,7 @@ return refmusician;
 }
 
 function johnLennonFacts(facts) {
-  var excitingFacts = []
+  var excitingFacts = facts [i] + "!!!"
   var i = 0;
   while (i < facts.length) {
  excitingFacts[i] = facts[i] + "!!!";
