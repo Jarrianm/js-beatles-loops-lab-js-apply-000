@@ -11,10 +11,10 @@ return refmusician;
 
 function johnLennonFacts(facts) {
   var facts = ["he was the last Beatle to learn to drive", "He was never a vegetarian", "He was a choir boy and a boy scout", "He hated the sound of his own voice" ]
-  var jfactexp = []
+  var excitingFacts = []
   var i = 0;
   while (i < facts.length) {
-  jfactexp.push(facts[i] + "!!!" );
+  excitingFacts.push(facts[i] + "!!!" );
   i++;
   }
 }
