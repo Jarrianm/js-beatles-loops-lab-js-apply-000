@@ -15,6 +15,6 @@ function johnLennonFacts() {
   var i = 0;
   while (i < facts.length) {
   jfactexp.push(facts[i] + "!!!" );
-  i++;  
+  i++;
   }
 }
