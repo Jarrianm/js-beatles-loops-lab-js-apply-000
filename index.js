@@ -19,10 +19,11 @@ function johnLennonFacts(facts) {
   return facts;
 }
 
-function iLoveTheBeatles(number){
+function iLoveTheBeatles(5){
   var showlove = []
-  do { showlove.push ('I love the Beatles!');
-number++;}
-while number < 15);
+  do { 
+    showlove.push ('I love the Beatles!');
+5 ++;}
+while (5 < 15);
 return showlove
 }
